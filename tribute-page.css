@@ -1,0 +1,40 @@
+body{
+	font-family: Verdana;
+	text-align: center;
+}
+div{
+  background-color: #d3d3d3;
+}
+#img-div{
+  background-color: #faf9f6; 
+  width: 90%;
+	align-items: center;
+}
+#img-caption{
+	padding: 20px ;
+}
+#image{
+  display: block;
+  max-width: 100%;
+  height: auto; 
+	width: 80%;
+	margin: auto;
+}
+h1{
+	padding-top: 50px;
+	font-size: 40px;
+}
+h3{
+	padding: 20px;
+}
+#tribute-info{
+	text-align: center;
+	padding: auto 50px auto 50px;
+	justify-content: center;
+}
+ul{
+	text-align: left;
+	display: inline-block;
+	list-style-position: inside;
+	width: 50%;
+}
